@@ -22,11 +22,13 @@ This repository contains small JavaScript projects that I created while revising
 6. **Start-Stop Background Color Changer**  
    - Clicking the "Start" button changes the background color at intervals, and clicking "Stop" stops the change.
 
+##MANY MORE LIKE THIS
+
 ## How to Use
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/javascript-mini-projects.git
+   git clone https://github.com/Abhi-2516/JAVASCRIPT-Learning/
    ```
 2. Open the respective project folder.
 3. Open the `index.html` file in a browser to see the project in action.
